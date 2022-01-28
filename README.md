@@ -1,7 +1,7 @@
 @@ -1,2 +1,37 @@
 # template_portfolio
 Template para portfólio de Data Science
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-jaymeson-red.svg)](https://www.inkedin.com/in/jaymeson-oliveira) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jaymeson-jpg/ORANGE_CANVAS)
 
 <p align="center">
   <img src="banner.png" >
@@ -22,7 +22,7 @@ My credentials include BIG DATA and ARTIFICIAL INTELLIGENCE as well as ARCHIVIST
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados :
 
 * **Como usar o Histograma para Data Science:** 
 * **Como Implementar Regressão Linear com Python:**
